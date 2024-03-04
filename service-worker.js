@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6bf4273a099d44d45eb67ca754245c78.js"
+  "/precache-manifest.23f836ed9dba37d7cff82db74450fa79.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tbot"});
